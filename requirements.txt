@@ -1,0 +1,15 @@
+# Auto_Drone dependencies
+# Core
+airsim>=1.8.1
+numpy>=1.23.0
+opencv-python>=4.7.0
+
+# PX4 / MAVSDK flight control
+mavsdk>=1.4.0
+
+# Object detection
+ultralytics>=8.0.0
+
+# Unity variant (optional)
+mss>=9.0.0
+pyautogui>=0.9.54
